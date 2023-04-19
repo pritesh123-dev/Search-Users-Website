@@ -1,0 +1,11 @@
+.card-div {
+    background: linear-gradient(to right, #F36265, #961276);
+    color: aliceblue;
+}
+#image {
+    width: 100%;
+}
+.card-div:hover {
+    transform: scale(1.05);
+    transition: all 0.2s ease-in-out;
+}

@@ -1,0 +1,19 @@
+#search-box {
+    width: 20vw;
+    height: 8vh;
+    border: 1px solid palevioletred;
+    background: linear-gradient(to right, #F36265, #961276);
+    color: aliceblue;
+    text-align: center;
+    border: none;
+    border-radius: 45px;
+    
+}
+#input-box {
+    display: flex;
+    justify-content: center;
+}
+#search-box::placeholder {
+    color: aliceblue;
+    font-size: 20px;
+}
